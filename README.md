@@ -21,17 +21,19 @@ Try and complete the readings _before_ the lecture for which they are listed, as
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
 ## Week 1: Introduction; Git
 
 ### Mon 03/28
 - **Reading:**
     [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (Sections 1.1 - 2.4)
 - **Lecture Slides:** 
-    _coming soon..._
+    [http://slides.com/joelross/infx598s16-intro/](http://slides.com/joelross/infx598s16-intro/) [(live)](http://slides.com/joelross/infx598s16-intro/live)
 - **Additional Resources:**
     - Start here! [Course Canvas page](https://canvas.uw.edu/courses/1041440) 
     - Windows users: [install git (for Git BASH)](https://git-for-windows.github.io/);
     - [Video series: Bash commands](https://www.youtube.com/watch?v=sqYUYHn-HKg&list=PLCAF7D691FFA25555)
+    - [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
     - [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
     - [Learn shell programming](http://www.learnshell.org/)
 
@@ -104,7 +106,8 @@ _Be sure and sign up for GitHub before lecture!_
 
 
 ### Wed 05/04
-- **Reading:** [Plotly User Guide](https://plot.ly/python/user-guide/)
+<!--[Plotly User Guide](https://plot.ly/python/user-guide/)-->
+- **Reading:** TBD
 - **Lecture Slides:** 
 
 
