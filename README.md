@@ -27,10 +27,10 @@ Try and complete the readings _before_ the lecture for which they are listed, as
 ### Mon 03/28
 - **Reading:**
     [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (Sections 1.1 - 2.4)
-- **Lecture Slides:** 
+- **Lecture Slides:**
     [http://slides.com/joelross/infx598s16-intro/](http://slides.com/joelross/infx598s16-intro/) [(live)](http://slides.com/joelross/infx598s16-intro/live)
 - **Additional Resources:**
-    - Start here! [Course Canvas page](https://canvas.uw.edu/courses/1041440) 
+    - Start here! [Course Canvas page](https://canvas.uw.edu/courses/1041440)
     - Windows users: [install git (for Git BASH)](https://git-for-windows.github.io/);
     - [Video series: Bash commands](https://www.youtube.com/watch?v=sqYUYHn-HKg&list=PLCAF7D691FFA25555)
     - [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
@@ -43,7 +43,8 @@ _Be sure and sign up for GitHub before lecture!_
 
 - **Reading:**
     [Atlassian git tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control) ("Getting Started")
-- **Lecture Slides:** 
+- **Lecture Slides:**
+    [http://slides.com/joelross/infx598s16-git/](http://slides.com/joelross/infx598s16-git/) [(live)](http://slides.com/joelross/infx598s16-git/live)
 - **Additional Resources:**
     - [What is git? [video]](https://git-scm.com/videos)
     - [GitHub help & FAQ](https://help.github.com/)
@@ -53,7 +54,7 @@ _Be sure and sign up for GitHub before lecture!_
 ## Week 2: Regular Expressions
 ### Mon 04/04
 - **Reading:** [RegexOne Tutorial](http://regexone.com/lesson/introduction_abcs) (all lessons)
-- **Lecture Slides:** 
+- **Lecture Slides:**
 - **Additional Resources:**
     - [Regex101 playground](https://regex101.com/#python)
     - [Regular-Expressions.info quickstart](http://www.regular-expressions.info/quickstart.html)
@@ -61,95 +62,92 @@ _Be sure and sign up for GitHub before lecture!_
 
 ### Wed 04/06
 - **Reading:** _None_
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ## Week 3: Python Programming
 ### Mon 04/11
 - **Reading:** [Python (3.0) for Informatics (PI)](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) (Chapters 1 & 2)
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ### Wed 04/13
 - **Reading:** Python for Informatics (Chapters 3 & 4)
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ## Week 4: Loops & Lists
 ### Mon 04/18
 - **Reading:** Python for Informatics (Chapters 5 & 6 & 7)
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ### Wed 04/20
 - **Reading:** Python for Informatics (Chapter 8)
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 
 ## Week 5: Data Modeling
 ### Mon 04/25
 - **Reading:** Python for Informatics (Chapter 11)
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ### Wed 04/27
 - **Reading:** [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) (Chapters 15, 16, 17)
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 
 ## Week 6: Algorithms & Libraries
 ### Mon 05/02
 - **Reading:** [What is Algorithm Analysis?](http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/WhatIsAlgorithmAnalysis.html), [Big-O Notation](http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html)
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ### Wed 05/04
 <!--[Plotly User Guide](https://plot.ly/python/user-guide/)-->
 - **Reading:** TBD
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ## Week 7: Data Tables & Graphs
 ### Mon 05/09
 - **Reading:** TBA
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ### Wed 05/11
 - **Reading:** TBA
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 
 ## Week 8: Other Languages: JavaScript
 ### Mon 05/16
 - **Reading:** TBA
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ### Wed 05/18
 - **Reading:** TBA
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ## Week 9: Visualizing with D3
 ### Mon 05/23
 - **Reading:** TBA
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ### Wed 05/25
 - **Reading:** TBA
-- **Lecture Slides:** 
+- **Lecture Slides:**
 
 
 ## Week 10: Visualization Projects
 ### Mon 05/30
-_No Class (Memorial Day)_ 
+_No Class (Memorial Day)_
 
 ### Wed 06/01
-
-
-
