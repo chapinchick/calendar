@@ -28,7 +28,7 @@ Try and complete the readings _before_ the lecture for which they are listed, as
 - **Reading:**
     [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (Sections 1.1 - 2.4)
 - **Lecture Slides:**
-    [http://slides.com/joelross/infx598s16-intro/](http://slides.com/joelross/infx598s16-intro/) [(live)](http://slides.com/joelross/infx598s16-intro/live)
+    [http://slides.com/joelross/infx598s16-intro/live](http://slides.com/joelross/infx598s16-intro/live) ([static](http://slides.com/joelross/infx598s16-intro/))
 - **Additional Resources:**
     - Start here! [Course Canvas page](https://canvas.uw.edu/courses/1041440)
     - Windows users: [install git (for Git BASH)](https://git-for-windows.github.io/);
@@ -44,7 +44,7 @@ _Be sure and sign up for GitHub before lecture!_
 - **Reading:**
     [Atlassian git tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control) ("Getting Started")
 - **Lecture Slides:**
-    [http://slides.com/joelross/infx598s16-git/](http://slides.com/joelross/infx598s16-git/) [(live)](http://slides.com/joelross/infx598s16-git/live)
+    [http://slides.com/joelross/infx598s16-git/live](http://slides.com/joelross/infx598s16-git/live) ([static](http://slides.com/joelross/infx598s16-git/))
 - **Additional Resources:**
     - [What is git? [video]](https://git-scm.com/videos)
     - [GitHub help & FAQ](https://help.github.com/)
@@ -55,15 +55,19 @@ _Be sure and sign up for GitHub before lecture!_
 ### Mon 04/04
 - **Reading:** [RegexOne Tutorial](http://regexone.com/lesson/introduction_abcs) (all lessons)
 - **Lecture Slides:**
+    [http://slides.com/joelross/infx598s16-regex/live](http://slides.com/joelross/infx598s16-regex/live) ([static](http://slides.com/joelross/infx598s16-regex/))
 - **Additional Resources:**
     - [Regex101 playground](https://regex101.com/#python)
     - [Regular-Expressions.info quickstart](http://www.regular-expressions.info/quickstart.html)
 
 
 ### Wed 04/06
-- **Reading:** _None_
+- **Reading:** [sed Introduction](http://www.grymoire.com/Unix/Sed.html) (up to "Arguments and invocation of sed").
 - **Lecture Slides:**
-
+- **Additional Resources:**
+    - [sed manual](https://www.gnu.org/software/sed/manual/sed.html)
+    - [Digital Ocean sed tutorial](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux)
+    - [sed microprimer](http://tldp.org/LDP/abs/html/x23170.html)
 
 ## Week 3: Python Programming
 ### Mon 04/11
