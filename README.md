@@ -64,10 +64,12 @@ _Be sure and sign up for GitHub before lecture!_
 ### Wed 04/06
 - **Reading:** [sed Introduction](http://www.grymoire.com/Unix/Sed.html) (up to "Arguments and invocation of sed").
 - **Lecture Slides:**
+    [http://slides.com/joelross/infx598s16-sed/live](http://slides.com/joelross/infx598s16-sed/live) ([static](http://slides.com/joelross/infx598s16-sed/))
 - **Additional Resources:**
     - [sed manual](https://www.gnu.org/software/sed/manual/sed.html)
     - [Digital Ocean sed tutorial](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux)
     - [sed microprimer](http://tldp.org/LDP/abs/html/x23170.html)
+
 
 ## Week 3: Python Programming
 ### Mon 04/11
