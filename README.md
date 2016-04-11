@@ -74,8 +74,10 @@ _Be sure and sign up for GitHub before lecture!_
 ## Week 3: Python Programming
 ### Mon 04/11
 - **Reading:** [Python (3.0) for Informatics (PI)](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) (Chapters 1 & 2)
-- **Lecture Slides:**
-
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python/live](http://slides.com/joelross/infx598s16-python/live) ([static](http://slides.com/joelross/infx598s16-python/))
+- **Additional Resources:**
+    - [Python in the browser (no installation)](http://www.skulpt.org/). Also [here](https://www.pythonanywhere.com/try-ipython/) ([instructions](http://www.allendowney.com/wp/books/think-python-2e/))
+    - [Codecademy Python tutorial](https://www.codecademy.com/learn/python)
 
 ### Wed 04/13
 - **Reading:** Python for Informatics (Chapters 3 & 4)
@@ -114,6 +116,7 @@ _Be sure and sign up for GitHub before lecture!_
 
 ### Wed 05/04
 <!--[Plotly User Guide](https://plot.ly/python/user-guide/)-->
+<!-- numpy? -->
 - **Reading:** TBD
 - **Lecture Slides:**
 
