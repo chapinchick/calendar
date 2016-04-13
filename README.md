@@ -78,16 +78,20 @@ _Be sure and sign up for GitHub before lecture!_
 - **Additional Resources:**
     - [Python in the browser (no installation)](http://www.skulpt.org/). Also [here](https://www.pythonanywhere.com/try-ipython/) ([instructions](http://www.allendowney.com/wp/books/think-python-2e/))
     - [Codecademy Python tutorial](https://www.codecademy.com/learn/python)
+    - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+    - 
 
 ### Wed 04/13
 - **Reading:** Python for Informatics (Chapters 3 & 4)
-- **Lecture Slides:**
-
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python2/live](http://slides.com/joelross/infx598s16-python2/live) ([static](http://slides.com/joelross/infx598s16-python2/))
+- **Additional Resources:**
+    - [Codingbat practice](http://codingbat.com/python)
 
 ## Week 4: Loops & Lists
 ### Mon 04/18
 - **Reading:** Python for Informatics (Chapters 5 & 6 & 7)
 - **Lecture Slides:**
+
 
 
 ### Wed 04/20
