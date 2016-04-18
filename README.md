@@ -87,10 +87,11 @@ _Be sure and sign up for GitHub before lecture!_
 - **Additional Resources:**
     - [Codingbat practice](http://codingbat.com/python)
 
+
 ## Week 4: Loops & Lists
 ### Mon 04/18
 - **Reading:** Python for Informatics (Chapters 5 & 6 & 7)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python3/live](http://slides.com/joelross/infx598s16-python3/live) ([static](http://slides.com/joelross/infx598s16-python3/))
 
 
 
