@@ -97,7 +97,7 @@ _Be sure and sign up for GitHub before lecture!_
 
 ### Wed 04/20
 - **Reading:** Python for Informatics (Chapter 8)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python4/live](http://slides.com/joelross/infx598s16-python4/live) ([static](http://slides.com/joelross/infx598s16-python4/))
 
 
 
