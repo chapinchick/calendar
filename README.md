@@ -101,10 +101,10 @@ _Be sure and sign up for GitHub before lecture!_
 
 
 
-## Week 5: Data Modeling
+## Week 5: Data Modeling & Processing
 ### Mon 04/25
 - **Reading:** Python for Informatics (Chapter 11)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python5/live](http://slides.com/joelross/infx598s16-python4/live) ([static](http://slides.com/joelross/infx598s16-python5/))
 
 
 ### Wed 04/27
