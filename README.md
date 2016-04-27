@@ -13,8 +13,8 @@ Try and complete the readings _before_ the lecture for which they are listed, as
 - [Week 3: Python Programming](#week-3-python-programming)
 - [Week 4: Loops & Lists](#week-4-loops-&-lists)
 - [Week 5: Data Modeling](#week-5-data-modeling)
-- [Week 6: Algorithms & Libraries](#week-6-algorithms-&-libraries)
-- [Week 7: Data Tables & Graphs](#week-7-data-tables-&-graphs)
+- [Week 6: Databases & Libraries](#week-6-databases-&-libraries)
+- [Week 7: Algorithmic Complexity](#week-7-algorithmic-complexity)
 - [Week 8: Other Languages: JavaScript](#week-8-other-languages-javascript)
 - [Week 9: Visualizing with D3](#week-9-visualizing-with-d3)
 - [Week 10: Visualization Projects](#week-10-visualization-projects)
@@ -103,32 +103,30 @@ _Be sure and sign up for GitHub before lecture!_
 
 ## Week 5: Data Modeling & Processing
 ### Mon 04/25
-- **Reading:** Python for Informatics (Chapter 11)
+- **Reading:** Python for Informatics (Chapter 10, 11)
 - **Lecture Slides:** [http://slides.com/joelross/infx598s16-python5/live](http://slides.com/joelross/infx598s16-python4/live) ([static](http://slides.com/joelross/infx598s16-python5/))
 
 
 ### Wed 04/27
 - **Reading:** [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) (Chapters 15, 16, 17)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python6/live](http://slides.com/joelross/infx598s16-python4/live) ([static](http://slides.com/joelross/infx598s16-python6/))
 
 
 
-## Week 6: Algorithms & Libraries
+## Week 6: Databases & Libraries
 ### Mon 05/02
-- **Reading:** [What is Algorithm Analysis?](http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/WhatIsAlgorithmAnalysis.html), [Big-O Notation](http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html)
+- **Reading:** Python for Informatics (Chapter 12)
 - **Lecture Slides:**
 
 
 ### Wed 05/04
-<!--[Plotly User Guide](https://plot.ly/python/user-guide/)-->
-<!-- numpy? -->
 - **Reading:** TBD
 - **Lecture Slides:**
 
 
-## Week 7: Data Tables & Graphs
+## Week 7: Algorithmic Complexity
 ### Mon 05/09
-- **Reading:** TBA
+- **Reading:** [What is Algorithm Analysis?](http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/WhatIsAlgorithmAnalysis.html), [Big-O Notation](http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html)
 - **Lecture Slides:**
 
 
