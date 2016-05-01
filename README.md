@@ -13,7 +13,7 @@ Try and complete the readings _before_ the lecture for which they are listed, as
 - [Week 3: Python Programming](#week-3-python-programming)
 - [Week 4: Loops & Lists](#week-4-loops-&-lists)
 - [Week 5: Data Modeling](#week-5-data-modeling)
-- [Week 6: Databases & Libraries](#week-6-databases-&-libraries)
+- [Week 6: Objects & Graphs](#week-6-objects-&-graphs)
 - [Week 7: Algorithmic Complexity](#week-7-algorithmic-complexity)
 - [Week 8: Other Languages: JavaScript](#week-8-other-languages-javascript)
 - [Week 9: Visualizing with D3](#week-9-visualizing-with-d3)
@@ -113,14 +113,14 @@ _Be sure and sign up for GitHub before lecture!_
 
 
 
-## Week 6: Databases & Libraries
+## Week 6: Objects & Graphs
 ### Mon 05/02
-- **Reading:** Python for Informatics (Chapter 12)
+- **Reading:** [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) (Chapters 15, 16, 17)
 - **Lecture Slides:**
 
 
 ### Wed 05/04
-- **Reading:** TBD
+- **Reading:** [Social Networks](http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/Social_Networks/Social_Networks.html)
 - **Lecture Slides:**
 
 
@@ -131,9 +131,8 @@ _Be sure and sign up for GitHub before lecture!_
 
 
 ### Wed 05/11
-- **Reading:** TBA
+- **Reading:** [Atlassian git tutorial: Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
 - **Lecture Slides:**
-
 
 
 ## Week 8: Other Languages: JavaScript
