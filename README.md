@@ -104,19 +104,19 @@ _Be sure and sign up for GitHub before lecture!_
 ## Week 5: Data Modeling & Processing
 ### Mon 04/25
 - **Reading:** Python for Informatics (Chapter 10, 11)
-- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python5/live](http://slides.com/joelross/infx598s16-python4/live) ([static](http://slides.com/joelross/infx598s16-python5/))
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python5/live](http://slides.com/joelross/infx598s16-python5/live) ([static](http://slides.com/joelross/infx598s16-python5/))
 
 
 ### Wed 04/27
 - **Reading:** [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) (Chapters 15, 16, 17)
-- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python6/live](http://slides.com/joelross/infx598s16-python4/live) ([static](http://slides.com/joelross/infx598s16-python6/))
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python6/live](http://slides.com/joelross/infx598s16-python6/live) ([static](http://slides.com/joelross/infx598s16-python6/))
 
 
 
 ## Week 6: Objects & Graphs
 ### Mon 05/02
 - **Reading:** [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) (Chapters 15, 16, 17)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-python-oop/live](http://slides.com/joelross/infx598s16-python-oop/live) ([static](http://slides.com/joelross/infx598s16-python-oop/))
 
 
 ### Wed 05/04
