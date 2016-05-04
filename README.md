@@ -121,7 +121,7 @@ _Be sure and sign up for GitHub before lecture!_
 
 ### Wed 05/04
 - **Reading:** [Social Networks](http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/Social_Networks/Social_Networks.html)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-graphs/live](http://slides.com/joelross/infx598s16-graphs/live) ([static](http://slides.com/joelross/infx598s16-graphs/))
 
 
 ## Week 7: Algorithmic Complexity
