@@ -127,7 +127,7 @@ _Be sure and sign up for GitHub before lecture!_
 ## Week 7: Algorithmic Complexity
 ### Mon 05/09
 - **Reading:** [What is Algorithm Analysis?](http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/WhatIsAlgorithmAnalysis.html), [Big-O Notation](http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-bigo/live](http://slides.com/joelross/infx598s16-bigo/live) ([static](http://slides.com/joelross/infx598s16-bigo/))
 
 
 ### Wed 05/11
