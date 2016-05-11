@@ -132,7 +132,7 @@ _Be sure and sign up for GitHub before lecture!_
 
 ### Wed 05/11
 - **Reading:** [Atlassian git tutorial: Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-git2/live](http://slides.com/joelross/infx598s16-git2/live) ([static](http://slides.com/joelross/infx598s16-git2/))
 
 
 ## Week 8: Other Languages: JavaScript
