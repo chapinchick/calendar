@@ -137,13 +137,22 @@ _Be sure and sign up for GitHub before lecture!_
 
 ## Week 8: Other Languages: JavaScript
 ### Mon 05/16
-- **Reading:** TBA
-- **Lecture Slides:**
+- **Reading:** [JavaScript for Cats](http://jsforcats.com/)
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-javascript/live](http://slides.com/joelross/infx598s16-javascript/live) ([static](http://slides.com/joelross/infx598s16-javascript/))
+- **Additional Resources:**
+    - [A Reintroduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+    - [Eloquent JavaScript](http://eloquentjavascript.net/)
+    - [W3Schools JavaScript Reference](http://www.w3schools.com/jsref/)
+    - [VS Code](https://code.visualstudio.com/)
 
 
 ### Wed 05/18
-- **Reading:** TBA
+- **Reading:** [jQuery Tutorial](http://www.w3schools.com/jquery/)
 - **Lecture Slides:**
+- **Additional Resources:**
+    - [jQuery](https://jquery.com/)
+    - [jQuery Ajax](http://www.w3schools.com/jquery/jquery_ajax_intro.asp)
+    - [Promises](https://davidwalsh.name/write-javascript-promises)
 
 
 ## Week 9: Visualizing with D3
