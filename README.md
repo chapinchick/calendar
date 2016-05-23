@@ -148,7 +148,7 @@ _Be sure and sign up for GitHub before lecture!_
 
 ### Wed 05/18
 - **Reading:** [jQuery Tutorial](http://www.w3schools.com/jquery/)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-javascript2/live](http://slides.com/joelross/infx598s16-javascript2/live) ([static](http://slides.com/joelross/infx598s16-javascript2/))
 - **Additional Resources:**
     - [jQuery](https://jquery.com/)
     - [jQuery Ajax](http://www.w3schools.com/jquery/jquery_ajax_intro.asp)
@@ -157,8 +157,11 @@ _Be sure and sign up for GitHub before lecture!_
 
 ## Week 9: Visualizing with D3
 ### Mon 05/23
-- **Reading:** TBA
-- **Lecture Slides:**
+- **Reading:** [Freeman's D3 Intro Module](https://github.com/INFO-474/m7-d3-intro)
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-d3/live](http://slides.com/joelross/infx598s16-d3/live) ([static](http://slides.com/joelross/infx598s16-d3/))
+- **Additional Resources:**
+	- [D3 Tutorials (Wiki)](https://github.com/d3/d3/wiki/Tutorials)
+	- [D3 Tutorials (Murray)](http://alignedleft.com/tutorials/d3)
 
 
 ### Wed 05/25
