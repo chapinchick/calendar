@@ -160,14 +160,19 @@ _Be sure and sign up for GitHub before lecture!_
 - **Reading:** [Freeman's D3 Intro Module](https://github.com/INFO-474/m7-d3-intro)
 - **Lecture Slides:** [http://slides.com/joelross/infx598s16-d3/live](http://slides.com/joelross/infx598s16-d3/live) ([static](http://slides.com/joelross/infx598s16-d3/))
 - **Additional Resources:**
+	- [SVG Tutorial](http://www.w3schools.com/svg/)
 	- [D3 Tutorials (Wiki)](https://github.com/d3/d3/wiki/Tutorials)
 	- [D3 Tutorials (Murray)](http://alignedleft.com/tutorials/d3)
 
 
 ### Wed 05/25
-- **Reading:** TBA
+- **Reading:** [D3 Scales](https://github.com/INFO-474/m8-scales)
 - **Lecture Slides:**
-
+- **Additional Resources:**
+	- [D3 Scales (Murray)](http://alignedleft.com/tutorials/d3/scales)
+	- [D3 Scales and Colors)](http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/)
+	- [Margin Convention](https://bl.ocks.org/mbostock/3019563)
+	- [D3 Axes (Murray)](http://alignedleft.com/tutorials/d3/axes)
 
 ## Week 10: Visualization Projects
 ### Mon 05/30
