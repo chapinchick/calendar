@@ -167,7 +167,7 @@ _Be sure and sign up for GitHub before lecture!_
 
 ### Wed 05/25
 - **Reading:** [D3 Scales](https://github.com/INFO-474/m8-scales)
-- **Lecture Slides:**
+- **Lecture Slides:** [http://slides.com/joelross/infx598s16-d3-cont/live](http://slides.com/joelross/infx598s16-d3-cont/live) ([static](http://slides.com/joelross/infx598s16-d3-cont/))
 - **Additional Resources:**
 	- [D3 Scales (Murray)](http://alignedleft.com/tutorials/d3/scales)
 	- [D3 Scales and Colors)](http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/)
