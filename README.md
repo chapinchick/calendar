@@ -179,3 +179,4 @@ _Be sure and sign up for GitHub before lecture!_
 _No Class (Memorial Day)_
 
 ### Wed 06/01
+- **"Lecture" Slides:** [http://slides.com/joelross/infx598s16-conclusion/live](http://slides.com/joelross/infx598s16-conclusion/live) ([static](http://slides.com/joelross/infx598s16-conclusion/))
